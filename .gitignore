@@ -1,0 +1,6 @@
+.terraform
+.terraform.tfstate
+out.plan
+azurek8s
+terraform.tfstate*
+secret
